@@ -62,10 +62,39 @@ Grading Policy
 
 This class is not graded on a curve, and (due to the pandemic) will comply with the MIT emergency grading policy. Per MIT rules, the grades will be assigned as follows: PE (equivalent to an A, B, or C grade) = 45–100%, NE (equivalent to a D or F grade) = 0–44.9%.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 10% |
-| Four exams, including the final, @ 22.5% each | 90% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four exams, including the final, @ 22.5% each
+{{< tdclose >}}
+{{< tdopen >}}
+90%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Schedule Note
 -------------
