@@ -21,10 +21,10 @@ solutions
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset8)
+[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset8)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Solution to Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset8_soln)
+[Solution to Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset8_soln)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ solutions
 [Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset9)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Solution to Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset9_soln)
+[Solution to Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset9_soln)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,16 +42,16 @@ solutions
 [Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset10)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Solution to Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset10_soln)
+[Solution to Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset10_soln)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset11)
+[Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset11)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Solution to Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset11_soln)
+[Solution to Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit7_05s20_pset11_soln)
 {{< tdclose >}}
 
 {{< trclose >}}
