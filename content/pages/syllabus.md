@@ -16,13 +16,13 @@ Prerequisite
 
 One of MIT's [General Institute Requirement (GIR)](https://biology.mit.edu/undergraduate/major-minor-requirements/general-institute-requirement/) Introductory Biology courses:
 
-*   [_7.012 Introduction to Biology_](/courses/7-012-introduction-to-biology-fall-2004/),
-*   [_7.013 Introductory Biology_](/courses/7-013-introductory-biology-spring-2018/),
-*   [_7.014 Introductory Biology_](/courses/7-014-introductory-biology-spring-2005/),
+*   [_7.012 Introduction to Biology_](/courses/7-012-introduction-to-biology-fall-2004),
+*   [_7.013 Introductory Biology_](/courses/7-013-introductory-biology-spring-2018),
+*   [_7.014 Introductory Biology_](/courses/7-014-introductory-biology-spring-2005),
 *   _7.015 Introductory Biology_, or
-*   [_7.016 Introductory Biology_](/courses/7-016-introductory-biology-fall-2018/).
+*   [_7.016 Introductory Biology_](/courses/7-016-introductory-biology-fall-2018).
 
-See also the OCW Scholar course [_7.01SC Fundamentals of Biology_](/courses/7-01sc-fundamentals-of-biology-fall-2011/) which draws upon material developed for 7.012, 7.013, and 7.014.
+See also the OCW Scholar course [_7.01SC Fundamentals of Biology_](/courses/7-01sc-fundamentals-of-biology-fall-2011) which draws upon material developed for 7.012, 7.013, and 7.014.
 
 Course Description
 ------------------
